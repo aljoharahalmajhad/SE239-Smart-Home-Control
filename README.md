@@ -14,10 +14,10 @@ Device controls are planned for a later milestone; no physical devices are requi
 
 ## Team
 Replace with your four names and contributions:
-- Member 1 — server setup
-- Member 2 — client and login
-- Member 3 — concurrent client handling
-- Member 4 — testing, documentation, integration
+- Seham Alattar 202500091 — server setup
+- Hala Almadi 202501615 — client and login
+- Moudhi Aljabr 202402481 — concurrent client handling
+- Aljoharah Almajhad 202402481 — testing, documentation, integration
 
 ## Requirements
 Python 3 (standard library only). No `pip install` needed.
