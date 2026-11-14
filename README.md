@@ -1,6 +1,6 @@
 # SE239-Smart-Home-Control
 
-# SE239 Smart-Home Control — Deliverable 2
+ — Deliverable 2
 
 A simple Python TCP client-server foundation for Topic 2.9 (Smart-Home Control).
 
@@ -13,11 +13,10 @@ A simple Python TCP client-server foundation for Topic 2.9 (Smart-Home Control).
 Device controls are planned for a later milestone; no physical devices are required.
 
 ## Team
-Replace with your four names and contributions:
 - Seham Alattar 202500091 — server setup
 - Hala Almadi 202501615 — client and login
 - Moudhi Aljabr 202402481 — concurrent client handling
-- Aljoharah Almajhad 202402481 — testing, documentation, integration
+- Aljoharah Almajhad 202400938 — testing, documentation, integration
 
 ## Requirements
 Python 3 (standard library only). No `pip install` needed.
